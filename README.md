@@ -20,5 +20,4 @@ However, I have not implemented the following features that one may think of as 
    - Query optimizer.
    - Indices.
 
-I dislike Java, but this was an interesting project overall (albeit a bit tedious at times).
 
